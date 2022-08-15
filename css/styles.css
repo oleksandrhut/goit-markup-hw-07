@@ -898,7 +898,7 @@ border-radius: 0px 0px 4px 4px;
 
  }
 
- .titles-item .titles-item__name
+ .titles-item .titles-name
  {
    
    font-weight: 700;
@@ -913,7 +913,7 @@ border-radius: 0px 0px 4px 4px;
  }
 
 
- ul .titles-item__description
+ ul .titles-description
  {
   
    font-weight: 400;
