@@ -1,0 +1,37 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: var(--body-color);
+  background-color: var(--background-body);
+  font-size: 14px;
+  letter-spacing: 0.03em;
+}
+
+.hero {
+  background: var(--background-hero);
+  background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero/Img-min.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1600px;
+  height: 600px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+.hero-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--title-hero);
+  width: 696px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.section {
+  padding: 94px 0;
+}/*# sourceMappingURL=body.css.map */
